@@ -10,4 +10,4 @@ def homepage():
 
 
 if __name__ == "__main__":
-    web.run()
+    web.run(debug=True)
